@@ -1,0 +1,6 @@
+framework module Pods_Enhance_EnhanceUITests {
+  umbrella header "Pods-Enhance-EnhanceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

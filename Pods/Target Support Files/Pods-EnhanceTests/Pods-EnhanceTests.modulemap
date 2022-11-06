@@ -1,0 +1,6 @@
+framework module Pods_EnhanceTests {
+  umbrella header "Pods-EnhanceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
